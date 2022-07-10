@@ -1,5 +1,5 @@
 <template>
-  <b-container>
+  <b-container class="mb-4">
     <b-row cols="2" cols-md="4" v-for="(_, i) in noOfRows" v-bind:key="i">
       <b-col v-for="(country, idx) in getRow(i * 4)" v-bind:key="`country${idx}`" class="mb-3" >
         <CountryGrid 

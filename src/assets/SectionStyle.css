@@ -4,6 +4,12 @@
   font-family: 'IBM Plex Sans', sans-serif;
 }
 
+@media only screen and (min-width: 960px) {
+  .container.inner {
+    max-width: 778px;
+  }
+}
+
 .country {
   margin-bottom: 10px;
   font-weight: 700;
@@ -47,4 +53,9 @@
 
 .caption {
   font-size: 13px;
+}
+
+.content {
+  font-weight: 400;
+  font-size: 18px;
 }
