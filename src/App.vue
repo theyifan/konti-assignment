@@ -1,17 +1,20 @@
 <template>
   <div id="app">
-    <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
-    <CountryContainer/>
+    <SectionHeader />
+    <CountryContainer />
   </div>
 </template>
 
 <script>
 import CountryContainer from './components/CountryContainer.vue'
+import SectionHeader from './components/SectionHeader.vue'
+import './assets/SectionStyle.css'
 
 export default {
   name: 'App',
   components: {
-    CountryContainer
+    CountryContainer, 
+    SectionHeader
   }
 }
 </script>
@@ -24,7 +27,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: left;
-  color: #2c3e50;
+  color: rgba(0, 0, 0, 0.7);
   margin-top: 60px;
 }
 

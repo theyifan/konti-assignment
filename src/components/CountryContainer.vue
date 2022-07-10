@@ -1,6 +1,6 @@
 <template>
   <b-container>
-    <b-row cols="2" cols-md="4" v-for="(_, i) in getNoOfRows" v-bind:key="i">
+    <b-row cols="2" cols-md="4" v-for="(_, i) in noOfRows" v-bind:key="i">
       <b-col v-for="(country, idx) in getRow(i * 4)" v-bind:key="`country${idx}`" class="mb-3" >
         <CountryGrid 
           v-bind:country-name="country.countryName"
@@ -27,7 +27,7 @@ export default {
     }
   }, 
   computed: {
-    getNoOfRows() {
+    noOfRows() {
       return Math.ceil(CountryData.length / 4)
     }
   }, 
