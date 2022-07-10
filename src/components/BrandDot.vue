@@ -50,11 +50,11 @@ export default {
   opacity: 1;
 }
 
-.brand-dot .dot-asian:hover {
+.brand-dot:hover .dot-asian {
   border: 1.5px solid #db900d; 
 }
 
-.brand-dot .dot-nonasian:hover {
+.brand-dot:hover .dot-nonasian {
   border: 1.5px solid #b0b0b0; 
 }
 </style>
