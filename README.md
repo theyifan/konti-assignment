@@ -1,24 +1,20 @@
 # konti-assignment
 
-## Project setup
+## Project setup + run locally
+
+First, clone the project and `cd` into the project directory: 
+```
+git clone git@github.com:theyifan/konti-assignment.git
+cd konti-assignment
+```
+Run the following command to install the dependencies:
+
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+Run the following command to start a development server:
 ```
 npm run serve
 ```
+The webpage should now be accessible via the default address: http://localhost:8080/ 
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
