@@ -3,7 +3,8 @@
     <b-row>
       <b-col>
         <h2 class="noodle-font pt-5 mb-5 section-title">
-          Instand noodle brands are mostly from Asia
+          Instand noodle brands are mostly from 
+          <span class="highlight">Asia</span>
         </h2>
       </b-col>
     </b-row>
