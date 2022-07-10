@@ -3,19 +3,30 @@
     <p class="country">{{ countryName }}</p>
     <b-container class="container-dots flex-row">
       <b-row>
-        <span v-for="index in numberOfBrands" :key="index" v-bind:class="{'dot-asian mb-2': asian,  'dot-nonasian mb-2': !asian}"></span>
+        <BrandDot
+          v-for="(_, index) in numberOfBrands" :key="`tooltip-${countryName}-${index}`"
+          :asian="asian"
+          :brand="brands[index]"
+        >
+        </BrandDot>
       </b-row>
     </b-container>
   </div>
 </template>
 
 <script>
+import BrandDot from './BrandDot.vue';
+
 export default {
   name: 'CountryGrid',
+  components: {
+    BrandDot,
+  },
   props: {
     countryName: String, 
     asian: Boolean, 
-    numberOfBrands: Number
+    numberOfBrands: Number, 
+    brands: Array,
   }
 }
 </script>

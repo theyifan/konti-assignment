@@ -1,0 +1,531 @@
+[
+  {
+    "countryName": "Australia",
+    "asian": false,
+    "numberOfBrands": 3,
+    "brands": [
+      "Fantastic",
+      "Singa-Me",
+      "Suimin"
+    ]
+  },
+  {
+    "countryName": "Bangladesh",
+    "asian": true,
+    "numberOfBrands": 1,
+    "brands": [
+      "Pran"
+    ]
+  },
+  {
+    "countryName": "Canada",
+    "asian": false,
+    "numberOfBrands": 7,
+    "brands": [
+      "Azami",
+      "Campbell's",
+      "Golden Wheat",
+      "Mr. Noodles",
+      "Noodle Time",
+      "Plats Du Chef",
+      "Western Family"
+    ]
+  },
+  {
+    "countryName": "China",
+    "asian": true,
+    "numberOfBrands": 21,
+    "brands": [
+      "Baijia",
+      "Baixiang Noodles",
+      "Chencunfen",
+      "Chuan Wei Wang",
+      "Dragonfly",
+      "Hankow",
+      "Hua Feng",
+      "JML",
+      "Kamfen",
+      "Kang Shi Fu",
+      "Lele",
+      "Liang Cheng Mai",
+      "Liu Quan",
+      "Long Kow",
+      "Nan Jie Cun",
+      "Qin Zong",
+      "Sichuan Baijia",
+      "Sichuan Guangyou",
+      "Springlife",
+      "Wugudaochang",
+      "Xiuhe"
+    ]
+  },
+  {
+    "countryName": "Fiji",
+    "asian": false,
+    "numberOfBrands": 1,
+    "brands": [
+      "FMF"
+    ]
+  },
+  {
+    "countryName": "Germany",
+    "asian": false,
+    "numberOfBrands": 2,
+    "brands": [
+      "Bonasia",
+      "Knorr"
+    ]
+  },
+  {
+    "countryName": "Ghana",
+    "asian": false,
+    "numberOfBrands": 1,
+    "brands": [
+      "Yum-Mie"
+    ]
+  },
+  {
+    "countryName": "Hong Kong",
+    "asian": true,
+    "numberOfBrands": 7,
+    "brands": [
+      "Boss",
+      "Chewy",
+      "Doll",
+      "Four Seas",
+      "Fuku",
+      "Kailo",
+      "Sau Tao"
+    ]
+  },
+  {
+    "countryName": "India",
+    "asian": true,
+    "numberOfBrands": 6,
+    "brands": [
+      "1 To 3 Noodles",
+      "Ching's Secret",
+      "Patanjali",
+      "Smack",
+      "Tasty Bite",
+      "TRDP"
+    ]
+  },
+  {
+    "countryName": "Indonesia",
+    "asian": true,
+    "numberOfBrands": 18,
+    "brands": [
+      "ABC",
+      "Cap Atoom Bulan",
+      "Eat & Go",
+      "GaGa",
+      "Healtimie",
+      "Indomie",
+      "La Fonte",
+      "Maitri",
+      "Mayora",
+      "Mie Sedaap",
+      "Pop Bihun",
+      "Pop Mie",
+      "President",
+      "Salam Mie",
+      "Sarimi",
+      "Super Bihun",
+      "SuperMi",
+      "Tropicana Slim"
+    ]
+  },
+  {
+    "countryName": "Japan",
+    "asian": true,
+    "numberOfBrands": 54,
+    "brands": [
+      "Acecook",
+      "Ajinatori",
+      "Bamee",
+      "Daikoku",
+      "Daraz",
+      "Farmer's Heart",
+      "Fuji Mengyo",
+      "Fujiwara",
+      "Goku Uma",
+      "Higashi",
+      "Higashimaru",
+      "Ikeda Shoku",
+      "Ishimaru",
+      "Itomen",
+      "Itsuki",
+      "Kimura",
+      "Kumamoto",
+      "Kuriki",
+      "Maruchan",
+      "Marutai",
+      "Men-Sunaoshi",
+      "Menraku",
+      "Mitoku",
+      "Myojo",
+      "Nagao Noodle",
+      "Nagatanien",
+      "Nakaya Shouten",
+      "New Touch",
+      "Nissin",
+      "Ogasawara",
+      "Oyatsu",
+      "Peyang",
+      "Ripe'n'Dry",
+      "Sakurai Foods",
+      "Samurai Ramen",
+      "Sanpo",
+      "Sanrio",
+      "Sanyo Foods",
+      "Sapporo Ichiban",
+      "Seven-Eleven",
+      "Seven & I",
+      "Shirakiku",
+      "Sokensha",
+      "Sugakiya Foods",
+      "Tablemark",
+      "Takamori Kosan",
+      "Tokachimen Koubou",
+      "Tokushima Seifun",
+      "Tokyo Noodle",
+      "Torishi",
+      "Unzen",
+      "Yamadai",
+      "Yamamori",
+      "Yamamoto"
+    ]
+  },
+  {
+    "countryName": "South Korea",
+    "asian": true,
+    "numberOfBrands": 32,
+    "brands": [
+      "JFC",
+      "Bon Go Jang",
+      "Chorip Dong",
+      "CJ CheilJedang",
+      "Daifuku",
+      "Dongwon",
+      "Emart",
+      "Foodmon",
+      "Global Inspiration",
+      "Good Tto Leu Foods",
+      "GS25",
+      "Guava Story",
+      "Haioreum",
+      "Han's South Korea",
+      "Hi-Myon",
+      "HoMyeonDang",
+      "Migawon",
+      "Mr. Udon",
+      "Nongshim",
+      "Ohsung",
+      "Ottogi",
+      "Paldo",
+      "Paldo Vina",
+      "Pulmuone",
+      "Rhee Bros Assi",
+      "Sahmyook",
+      "Samyang Foods",
+      "Sempio",
+      "Song Hak",
+      "Sura",
+      "Sutah",
+      "Wang"
+    ]
+  },
+  {
+    "countryName": "Estonia",
+    "asian": false,
+    "numberOfBrands": 1,
+    "brands": [
+      "Baltix"
+    ]
+  },
+  {
+    "countryName": "Malaysia",
+    "asian": true,
+    "numberOfBrands": 31,
+    "brands": [
+      "Adabi",
+      "Ah Lai",
+      "Aroi",
+      "CarJEN",
+      "Cintan",
+      "Curry Prince",
+      "Daddy Mee",
+      "E-mi",
+      "Econsave",
+      "Hao Way",
+      "Happy Family",
+      "Ibumie",
+      "IbuRamen",
+      "J.J.",
+      "Lee Fah Mee",
+      "Mamee",
+      "Mi E-Zee",
+      "MyKuali",
+      "MyOri",
+      "Nanyang Chef",
+      "Nyor Nyar",
+      "ORee Garden",
+      "Premiere",
+      "Saji",
+      "Sawadee",
+      "Super",
+      "The Bridge",
+      "The Kitchen Food",
+      "Uncle Sun",
+      "Vit's",
+      "World O' Noodle"
+    ]
+  },
+  {
+    "countryName": "Mexico",
+    "asian": false,
+    "numberOfBrands": 1,
+    "brands": [
+      "La Moderna"
+    ]
+  },
+  {
+    "countryName": "Nepal",
+    "asian": true,
+    "numberOfBrands": 2,
+    "brands": [
+      "Asian Thai Foods",
+      "Wai Wai"
+    ]
+  },
+  {
+    "countryName": "Netherlands",
+    "asian": false,
+    "numberOfBrands": 2,
+    "brands": [
+      "Conimex",
+      "Unox"
+    ]
+  },
+  {
+    "countryName": "New Zealand",
+    "asian": false,
+    "numberOfBrands": 1,
+    "brands": [
+      "Trident"
+    ]
+  },
+  {
+    "countryName": "Pakistan",
+    "asian": true,
+    "numberOfBrands": 2,
+    "brands": [
+      "Morre",
+      "Shan"
+    ]
+  },
+  {
+    "countryName": "Philippines",
+    "asian": true,
+    "numberOfBrands": 3,
+    "brands": [
+      "Lucky Me!",
+      "Payless",
+      "Quickchow"
+    ]
+  },
+  {
+    "countryName": "Poland",
+    "asian": false,
+    "numberOfBrands": 1,
+    "brands": [
+      "Amino"
+    ]
+  },
+  {
+    "countryName": "Singapore",
+    "asian": true,
+    "numberOfBrands": 2,
+    "brands": [
+      "Koka",
+      "Prima Taste"
+    ]
+  },
+  {
+    "countryName": "Sweden",
+    "asian": false,
+    "numberOfBrands": 2,
+    "brands": [
+      "ICA",
+      "Katoz"
+    ]
+  },
+  {
+    "countryName": "Switzerland",
+    "asian": false,
+    "numberOfBrands": 2,
+    "brands": [
+      "Koh Thai",
+      "Maggi"
+    ]
+  },
+  {
+    "countryName": "Taiwan",
+    "asian": true,
+    "numberOfBrands": 43,
+    "brands": [
+      "A-Sha Dry Noodle",
+      "Amianda",
+      "Chering Chang",
+      "China Best",
+      "Choumama",
+      "Deshome",
+      "Forest Noodles",
+      "GGE",
+      "Happy Cook",
+      "Hsin Tung Yang",
+      "iNoodle",
+      "Jingqi",
+      "Just Way",
+      "Kiki Noodle",
+      "Kim Ve Wong",
+      "Lishan Food Manufacturing",
+      "Little Couples Q Noodle",
+      "Long Jun Hang",
+      "Love Cook",
+      "Mom's Dry Noodle",
+      "Nan Hsing",
+      "Oni Hot Pot",
+      "Rocket Brand",
+      "Saigon Ve Wong",
+      "Six Fortune",
+      "Souper",
+      "Sunlight",
+      "Sunny Maid",
+      "Ten-In",
+      "Tiger",
+      "Tseng Noodles",
+      "TTL",
+      "Tung-I",
+      "Uni-President",
+      "Unif",
+      "Unif Tung-I",
+      "Ve Wong",
+      "Vedan",
+      "Wei Chuan",
+      "Wei Lih",
+      "Wei Wei",
+      "Wu-Mu",
+      "Xiao Ban Mian"
+    ]
+  },
+  {
+    "countryName": "Thailand",
+    "asian": true,
+    "numberOfBrands": 23,
+    "brands": [
+      "Asia Gold",
+      "Fashion Food",
+      "iMee",
+      "Kim's Bowl",
+      "Kin-Dee",
+      "Little Cook",
+      "Mama",
+      "Mee Jang",
+      "One Dish Asia",
+      "Pama",
+      "Papa",
+      "Pirkka",
+      "President Rice",
+      "Royal Umbrella",
+      "Ruski",
+      "Sunlee",
+      "Tao Kae Noi",
+      "Thai Choice",
+      "Thai Chef",
+      "Thai Kitchen",
+      "Thai Smile",
+      "Yum Yum",
+      "Zow Zow"
+    ]
+  },
+  {
+    "countryName": "UK",
+    "asian": false,
+    "numberOfBrands": 12,
+    "brands": [
+      "Batchelors",
+      "Golden Wonder",
+      "Kabuto Noodles",
+      "Ko-Lee",
+      "Lipton",
+      "Mr. Lee's Noodles",
+      "Mug Shot",
+      "Pot Noodle",
+      "Sainsbury's",
+      "Tesco",
+      "Tiger Tiger",
+      "Urban Noodle"
+    ]
+  },
+  {
+    "countryName": "USA",
+    "asian": false,
+    "numberOfBrands": 30,
+    "brands": [
+      "Annie Chun's",
+      "Authentically Asian",
+      "Chikara",
+      "Crystal Noodle",
+      "Dr. McDougall's",
+      "Dream Kitchen",
+      "Fortune",
+      "Fu Chang Chinese Noodle Company",
+      "Gefen",
+      "Great Value",
+      "GreeNoodle",
+      "Hosoonyi",
+      "Koyo",
+      "Lotus Foods",
+      "Mama Pat's",
+      "Mexi-Ramen",
+      "Miracle Noodle",
+      "Pamana",
+      "Pringles",
+      "Right Foods",
+      "Roland",
+      "S&S",
+      "Sakura Noodle",
+      "Star Anise Foods",
+      "Sun Noodle",
+      "Tayho",
+      "Thai Pavilion",
+      "Tradition",
+      "Westbrae",
+      "Yamachan"
+    ]
+  },
+  {
+    "countryName": "Vietnam",
+    "asian": true,
+    "numberOfBrands": 15,
+    "brands": [
+      "A-One",
+      "A1",
+      "Binh Tay",
+      "Gau Do",
+      "Gomex",
+      "Miliket",
+      "Mum Ngon",
+      "New Way",
+      "Noah Foods",
+      "Omachi",
+      "Snapdragon",
+      "Thien Houng Foods",
+      "United",
+      "Vifon",
+      "Vina Acecook"
+    ]
+  }
+]

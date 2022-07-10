@@ -6,6 +6,7 @@
           v-bind:country-name="country.countryName"
           v-bind:number-of-brands="country.numberOfBrands"
           v-bind:asian="country.asian"
+          v-bind:brands="country.brands"
         />
       </b-col>
     </b-row>
